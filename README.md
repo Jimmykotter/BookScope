@@ -13,7 +13,7 @@
 
 ## Screenshots
 
-![screenshot](https://github.com/user-attachments/assets/ff4e2ca7-0113-4c7d-ba72-a843da1fa886)
+![image](https://github.com/user-attachments/assets/a2e12924-ed39-419b-8b42-262dd0ab0d6a)
 
 ## Built With
 
